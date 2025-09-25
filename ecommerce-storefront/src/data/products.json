@@ -1,0 +1,483 @@
+[
+  {
+    "id": "p001",
+    "title": "Classic Leather Jacket",
+    "slug": "classic-leather-jacket",
+    "price": 14999,
+    "category": "Men > Jackets",
+    "rating": 4.5,
+    "reviews": 240,
+    "stock": 12,
+    "images": [
+      "https://picsum.photos/seed/p001/800/800",
+      "https://picsum.photos/seed/p001-2/800/800"
+    ],
+    "description": "A timeless classic, this leather jacket is crafted from premium materials for a comfortable fit and lasting style.",
+    "tags": ["winter", "leather", "men"],
+    "createdAt": "2025-01-10"
+  },
+  {
+    "id": "p002",
+    "title": "Slim-Fit Denim Jeans",
+    "slug": "slim-fit-denim-jeans",
+    "price": 8999,
+    "category": "Men > Pants",
+    "rating": 4.2,
+    "reviews": 180,
+    "stock": 25,
+    "images": [
+      "https://picsum.photos/seed/p002/800/800"
+    ],
+    "description": "These slim-fit jeans are made from high-quality denim with a hint of stretch for all-day comfort.",
+    "tags": ["denim", "men", "casual"],
+    "createdAt": "2025-01-12"
+  },
+  {
+    "id": "p003",
+    "title": "Floral Print Sundress",
+    "slug": "floral-print-sundress",
+    "price": 6999,
+    "category": "Women > Dresses",
+    "rating": 4.8,
+    "reviews": 320,
+    "stock": 18,
+    "images": [
+      "https://picsum.photos/seed/p003/800/800"
+    ],
+    "description": "Embrace the sunshine with this beautiful floral print sundress, perfect for any summer occasion.",
+    "tags": ["summer", "floral", "women"],
+    "createdAt": "2025-02-01"
+  },
+  {
+    "id": "p004",
+    "title": "Cozy Knit Sweater",
+    "slug": "cozy-knit-sweater",
+    "price": 7999,
+    "category": "Women > Sweaters",
+    "rating": 4.6,
+    "reviews": 210,
+    "stock": 20,
+    "images": [
+      "https://picsum.photos/seed/p004/800/800"
+    ],
+    "description": "Stay warm and stylish with this cozy knit sweater, featuring a relaxed fit and soft, comfortable fabric.",
+    "tags": ["winter", "knitwear", "women"],
+    "createdAt": "2025-01-15"
+  },
+  {
+    "id": "p005",
+    "title": "Running Shoes",
+    "slug": "running-shoes",
+    "price": 12999,
+    "category": "Shoes > Athletic",
+    "rating": 4.9,
+    "reviews": 450,
+    "stock": 30,
+    "images": [
+      "https://picsum.photos/seed/p005/800/800"
+    ],
+    "description": "Engineered for performance, these running shoes provide exceptional comfort and support for your daily runs.",
+    "tags": ["athletic", "running", "unisex"],
+    "createdAt": "2025-03-01"
+  },
+  {
+    "id": "p006",
+    "title": "Leather Ankle Boots",
+    "slug": "leather-ankle-boots",
+    "price": 15999,
+    "category": "Shoes > Boots",
+    "rating": 4.7,
+    "reviews": 280,
+    "stock": 15,
+    "images": [
+      "https://picsum.photos/seed/p006/800/800"
+    ],
+    "description": "Step out in style with these chic leather ankle boots, perfect for adding a touch of sophistication to any outfit.",
+    "tags": ["boots", "leather", "women"],
+    "createdAt": "2025-02-20"
+  },
+  {
+    "id": "p007",
+    "title": "Graphic T-Shirt",
+    "slug": "graphic-t-shirt",
+    "price": 2999,
+    "category": "Men > T-Shirts",
+    "rating": 4.3,
+    "reviews": 150,
+    "stock": 50,
+    "images": [
+      "https://picsum.photos/seed/p007/800/800"
+    ],
+    "description": "Make a statement with this bold graphic t-shirt, crafted from soft, breathable cotton.",
+    "tags": ["t-shirt", "graphic", "men"],
+    "createdAt": "2025-03-10"
+  },
+  {
+    "id": "p008",
+    "title": "Silk Blouse",
+    "slug": "silk-blouse",
+    "price": 9999,
+    "category": "Women > Tops",
+    "rating": 4.8,
+    "reviews": 190,
+    "stock": 22,
+    "images": [
+      "https://picsum.photos/seed/p008/800/800"
+    ],
+    "description": "This elegant silk blouse is a versatile addition to any wardrobe, perfect for both work and special occasions.",
+    "tags": ["silk", "blouse", "women"],
+    "createdAt": "2025-02-15"
+  },
+  {
+    "id": "p009",
+    "title": "Chino Shorts",
+    "slug": "chino-shorts",
+    "price": 4999,
+    "category": "Men > Shorts",
+    "rating": 4.4,
+    "reviews": 120,
+    "stock": 35,
+    "images": [
+      "https://picsum.photos/seed/p009/800/800"
+    ],
+    "description": "Stay cool and comfortable in these classic chino shorts, perfect for warm weather.",
+    "tags": ["shorts", "chino", "men"],
+    "createdAt": "2025-04-01"
+  },
+  {
+    "id": "p010",
+    "title": "Pleated Midi Skirt",
+    "slug": "pleated-midi-skirt",
+    "price": 7999,
+    "category": "Women > Skirts",
+    "rating": 4.7,
+    "reviews": 210,
+    "stock": 28,
+    "images": [
+      "https://picsum.photos/seed/p010/800/800"
+    ],
+    "description": "This pleated midi skirt adds a touch of elegance to any outfit, with its graceful movement and flattering silhouette.",
+    "tags": ["skirt", "midi", "women"],
+    "createdAt": "2025-03-20"
+  },
+  {
+    "id": "p011",
+    "title": "Wool Peacoat",
+    "slug": "wool-peacoat",
+    "price": 19999,
+    "category": "Men > Coats",
+    "rating": 4.9,
+    "reviews": 300,
+    "stock": 10,
+    "images": [
+      "https://picsum.photos/seed/p011/800/800"
+    ],
+    "description": "Stay warm in style with this classic wool peacoat, featuring a double-breasted front and timeless design.",
+    "tags": ["coat", "wool", "men"],
+    "createdAt": "2024-12-01"
+  },
+  {
+    "id": "p012",
+    "title": "Trench Coat",
+    "slug": "trench-coat",
+    "price": 18999,
+    "category": "Women > Coats",
+    "rating": 4.8,
+    "reviews": 250,
+    "stock": 14,
+    "images": [
+      "https://picsum.photos/seed/p012/800/800"
+    ],
+    "description": "A timeless classic, this trench coat is the perfect transitional piece for any season.",
+    "tags": ["coat", "trench", "women"],
+    "createdAt": "2024-11-15"
+  },
+  {
+    "id": "p013",
+    "title": "Leather Belt",
+    "slug": "leather-belt",
+    "price": 3999,
+    "category": "Accessories",
+    "rating": 4.6,
+    "reviews": 180,
+    "stock": 40,
+    "images": [
+      "https://picsum.photos/seed/p013/800/800"
+    ],
+    "description": "Complete your look with this genuine leather belt, featuring a classic buckle and durable construction.",
+    "tags": ["belt", "leather", "unisex"],
+    "createdAt": "2025-01-25"
+  },
+  {
+    "id": "p014",
+    "title": "Sunglasses",
+    "slug": "sunglasses",
+    "price": 8999,
+    "category": "Accessories",
+    "rating": 4.7,
+    "reviews": 320,
+    "stock": 50,
+    "images": [
+      "https://picsum.photos/seed/p014/800/800"
+    ],
+    "description": "Protect your eyes in style with these classic sunglasses, featuring UV protection and a timeless design.",
+    "tags": ["sunglasses", "unisex"],
+    "createdAt": "2025-03-05"
+  },
+  {
+    "id": "p015",
+    "title": "Canvas Backpack",
+    "slug": "canvas-backpack",
+    "price": 5999,
+    "category": "Bags",
+    "rating": 4.5,
+    "reviews": 200,
+    "stock": 30,
+    "images": [
+      "https://picsum.photos/seed/p015/800/800"
+    ],
+    "description": "This durable canvas backpack is perfect for everyday use, with plenty of room for all your essentials.",
+    "tags": ["backpack", "canvas", "unisex"],
+    "createdAt": "2025-02-10"
+  },
+  {
+    "id": "p016",
+    "title": "Leather Tote Bag",
+    "slug": "leather-tote-bag",
+    "price": 12999,
+    "category": "Bags",
+    "rating": 4.8,
+    "reviews": 280,
+    "stock": 20,
+    "images": [
+      "https://picsum.photos/seed/p016/800/800"
+    ],
+    "description": "This spacious leather tote bag is perfect for work or weekend getaways, with a timeless design and durable construction.",
+    "tags": ["tote", "leather", "women"],
+    "createdAt": "2025-01-20"
+  },
+  {
+    "id": "p017",
+    "title": "Polo Shirt",
+    "slug": "polo-shirt",
+    "price": 4999,
+    "category": "Men > T-Shirts",
+    "rating": 4.4,
+    "reviews": 160,
+    "stock": 45,
+    "images": [
+      "https://picsum.photos/seed/p017/800/800"
+    ],
+    "description": "This classic polo shirt is a wardrobe staple, crafted from soft, breathable cotton for all-day comfort.",
+    "tags": ["polo", "men", "casual"],
+    "createdAt": "2025-03-15"
+  },
+  {
+    "id": "p018",
+    "title": "V-Neck T-Shirt",
+    "slug": "v-neck-t-shirt",
+    "price": 2499,
+    "category": "Women > T-Shirts",
+    "rating": 4.3,
+    "reviews": 140,
+    "stock": 60,
+    "images": [
+      "https://picsum.photos/seed/p018/800/800"
+    ],
+    "description": "This soft and comfortable v-neck t-shirt is a versatile basic that can be dressed up or down.",
+    "tags": ["t-shirt", "v-neck", "women"],
+    "createdAt": "2025-04-05"
+  },
+  {
+    "id": "p019",
+    "title": "Hoodie",
+    "slug": "hoodie",
+    "price": 6999,
+    "category": "Men > Hoodies",
+    "rating": 4.6,
+    "reviews": 220,
+    "stock": 32,
+    "images": [
+      "https://picsum.photos/seed/p019/800/800"
+    ],
+    "description": "Stay warm and comfortable in this classic hoodie, made from a soft cotton blend.",
+    "tags": ["hoodie", "men", "casual"],
+    "createdAt": "2025-01-30"
+  },
+  {
+    "id": "p020",
+    "title": "Yoga Pants",
+    "slug": "yoga-pants",
+    "price": 5999,
+    "category": "Women > Activewear",
+    "rating": 4.9,
+    "reviews": 350,
+    "stock": 40,
+    "images": [
+      "https://picsum.photos/seed/p020/800/800"
+    ],
+    "description": "These high-waisted yoga pants are made from a stretchy, moisture-wicking fabric for maximum comfort and performance.",
+    "tags": ["yoga", "activewear", "women"],
+    "createdAt": "2025-02-25"
+  },
+  {
+    "id": "p021",
+    "title": "Bomber Jacket",
+    "slug": "bomber-jacket",
+    "price": 11999,
+    "category": "Men > Jackets",
+    "rating": 4.7,
+    "reviews": 190,
+    "stock": 18,
+    "images": [
+      "https://picsum.photos/seed/p021/800/800"
+    ],
+    "description": "This stylish bomber jacket is a versatile piece that can be dressed up or down.",
+    "tags": ["bomber", "jacket", "men"],
+    "createdAt": "2025-02-05"
+  },
+  {
+    "id": "p022",
+    "title": "Maxi Dress",
+    "slug": "maxi-dress",
+    "price": 9999,
+    "category": "Women > Dresses",
+    "rating": 4.6,
+    "reviews": 230,
+    "stock": 25,
+    "images": [
+      "https://picsum.photos/seed/p022/800/800"
+    ],
+    "description": "This elegant maxi dress is perfect for special occasions, with its flowing silhouette and beautiful print.",
+    "tags": ["maxi", "dress", "women"],
+    "createdAt": "2025-03-25"
+  },
+  {
+    "id": "p023",
+    "title": "Dress Shoes",
+    "slug": "dress-shoes",
+    "price": 14999,
+    "category": "Shoes > Formal",
+    "rating": 4.8,
+    "reviews": 260,
+    "stock": 16,
+    "images": [
+      "https://picsum.photos/seed/p023/800/800"
+    ],
+    "description": "These classic dress shoes are crafted from genuine leather for a sophisticated look and comfortable fit.",
+    "tags": ["dress", "shoes", "men"],
+    "createdAt": "2025-01-05"
+  },
+  {
+    "id": "p024",
+    "title": "High Heels",
+    "slug": "high-heels",
+    "price": 13999,
+    "category": "Shoes > Formal",
+    "rating": 4.7,
+    "reviews": 290,
+    "stock": 20,
+    "images": [
+      "https://picsum.photos/seed/p024/800/800"
+    ],
+    "description": "Step out in style with these elegant high heels, perfect for adding a touch of glamour to any outfit.",
+    "tags": ["heels", "formal", "women"],
+    "createdAt": "2025-02-18"
+  },
+  {
+    "id": "p025",
+    "title": "Beanie",
+    "slug": "beanie",
+    "price": 1999,
+    "category": "Accessories",
+    "rating": 4.5,
+    "reviews": 110,
+    "stock": 60,
+    "images": [
+      "https://picsum.photos/seed/p025/800/800"
+    ],
+    "description": "Stay warm and stylish with this soft and comfortable beanie.",
+    "tags": ["beanie", "unisex", "winter"],
+    "createdAt": "2024-12-10"
+  },
+  {
+    "id": "p026",
+    "title": "Scarf",
+    "slug": "scarf",
+    "price": 2999,
+    "category": "Accessories",
+    "rating": 4.6,
+    "reviews": 150,
+    "stock": 50,
+    "images": [
+      "https://picsum.photos/seed/p026/800/800"
+    ],
+    "description": "This soft and cozy scarf is the perfect accessory for chilly days.",
+    "tags": ["scarf", "unisex", "winter"],
+    "createdAt": "2024-12-15"
+  },
+  {
+    "id": "p027",
+    "title": "Leather Gloves",
+    "slug": "leather-gloves",
+    "price": 4999,
+    "category": "Accessories",
+    "rating": 4.8,
+    "reviews": 180,
+    "stock": 30,
+    "images": [
+      "https://picsum.photos/seed/p027/800/800"
+    ],
+    "description": "Keep your hands warm and stylish with these genuine leather gloves.",
+    "tags": ["gloves", "leather", "unisex"],
+    "createdAt": "2024-11-20"
+  },
+  {
+    "id": "p028",
+    "title": "Swim Trunks",
+    "slug": "swim-trunks",
+    "price": 3999,
+    "category": "Men > Swimwear",
+    "rating": 4.4,
+    "reviews": 130,
+    "stock": 40,
+    "images": [
+      "https://picsum.photos/seed/p028/800/800"
+    ],
+    "description": "Hit the beach in style with these comfortable and quick-drying swim trunks.",
+    "tags": ["swim", "men", "summer"],
+    "createdAt": "2025-05-01"
+  },
+  {
+    "id": "p029",
+    "title": "Bikini",
+    "slug": "bikini",
+    "price": 5999,
+    "category": "Women > Swimwear",
+    "rating": 4.7,
+    "reviews": 200,
+    "stock": 35,
+    "images": [
+      "https://picsum.photos/seed/p029/800/800"
+    ],
+    "description": "This stylish bikini is perfect for soaking up the sun, with a flattering fit and comfortable fabric.",
+    "tags": ["bikini", "women", "summer"],
+    "createdAt": "2025-05-10"
+  },
+  {
+    "id": "p030",
+    "title": "Denim Jacket",
+    "slug": "denim-jacket",
+    "price": 9999,
+    "category": "Men > Jackets",
+    "rating": 4.6,
+    "reviews": 250,
+    "stock": 20,
+    "images": [
+      "https://picsum.photos/seed/p030/800/800"
+    ],
+    "description": "A timeless classic, this denim jacket is a versatile piece that can be worn year-round.",
+    "tags": ["denim", "jacket", "men"],
+    "createdAt": "2025-02-12"
+  }
+]
